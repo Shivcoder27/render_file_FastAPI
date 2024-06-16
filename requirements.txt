@@ -1,6 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
-pickle
-scikit-learn
+
 
